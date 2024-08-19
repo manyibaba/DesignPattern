@@ -4,6 +4,9 @@ package com.manyi.zhang.designpattern.prototype;
 
 public class TestPrototype {
 
+    /**
+     * 原型模式，通过原对象创建新的对象，减少新对象创建的复杂流程
+     */
     public static void main(String[] args) {
 //        testCloneable();
 //
